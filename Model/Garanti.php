@@ -11,7 +11,7 @@ class Garanti
     public $debugUrlUse = false;
     public $version = "v0.01";
     public $mode = "PROD"; // Test ortamı "TEST", gerçek ortam için "PROD"
-    public $companyName="Mor Paketim";
+    public $companyName="####";
     public $terminalMerchantID = "####"; // Üye işyeri numarası
     public $terminalID = "####"; // Terminal numarası
     public $terminalID_= "####"; // 0Terminal numarası
